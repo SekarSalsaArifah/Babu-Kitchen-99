@@ -1,0 +1,34 @@
+body{
+	background-color: #6f42c1;
+	font-family: 'Courier New', monospace;
+}
+
+.head {
+	background-color: #6f42c1;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 80px;
+  font-size: 30px;
+  font-family: 'Courier New', monospace;
+  font-weight: bold;
+}
+
+.container{
+	border-radius: 5px;
+  	background-color: white;
+  	padding: 20px;
+  	font-family: 'Trebuchet MS', sans-serif;
+  	align-content: center;
+  	width: 30%;
+  	position: center;
+  	margin-top: 90px;
+}
+
+.form-signin-heading{
+	text-align: center;
+	font-size: 50px;
+}
+
+.text-center {
+  text-align: center !important; 
+}
